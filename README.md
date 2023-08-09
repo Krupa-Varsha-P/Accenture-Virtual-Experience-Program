@@ -57,7 +57,7 @@ Create charts to Visualize the top 5 categories with the largest popularity.
 ### Charts Created:
 
 * Bar Chart
-* Line Chart
+* Pie Chart
 
  ## Task 4:
 
